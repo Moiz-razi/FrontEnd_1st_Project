@@ -37,7 +37,7 @@ function App(){
       <ExpenseItem 
         title={expenses[1].title}
         amount = {expenses[1].amount}
-        date = {expenses[1].amount}
+        date = {expenses[1].date}
         location = {expenses[1].location}
       ></ExpenseItem>
       <ExpenseItem
