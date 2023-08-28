@@ -1,6 +1,7 @@
+import React from 'react';
 import Expenses from './components/Expenses/Expenses';
-import ExpenseForm from './components/NewExpense/ExpenseForm';
-import NewExpense from './components/NewExpense/NewExpense';
+import ExpenseForm from './components/NewExpenses/ExpenseForm';
+import NewExpense from './components/NewExpenses/NewExpense';
 const App = ()=> {
   const expenses = [
     {
